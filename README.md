@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://github.com/Tuakyas223/Tuakyas223/blob/main/l.gif?raw=true" width="700"/>
+  <img src="https://github.com/Tuakyas223/Tuakyas223/blob/main/l.gif?raw=true" width="400"/>
 </div>
 <!--
 **Tuakyas223/Tuakyas223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
